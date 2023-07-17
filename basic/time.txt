@@ -1,0 +1,211 @@
+10.0.1.2
+Client Request: 
+PUT /assignment1/key1/val1 HTTP/1.1
+
+
+
+Time taken :  0.00176787376404 seconds 
+Server Response: 
+HTTP/1.1 204 No Content 
+Client Request: 
+PUT /assignment1/key2/val2 HTTP/1.1
+
+
+
+Time taken :  0.000818014144897 seconds 
+Server Response: 
+HTTP/1.1 204 No Content 
+Client Request: 
+PUT /assignment1/key3/val3 HTTP/1.1
+
+
+
+Time taken :  0.000823020935059 seconds 
+Server Response: 
+HTTP/1.1 204 No Content 
+Client Request: 
+PUT /assignment1/key4/val4 HTTP/1.1
+
+
+
+Time taken :  0.000929832458496 seconds 
+Server Response: 
+HTTP/1.1 204 No Content 
+Client Request: 
+PUT /assignment1/key5/val5 HTTP/1.1
+
+
+
+Time taken :  0.000755071640015 seconds 
+Server Response: 
+HTTP/1.1 204 No Content 
+Client Request: 
+PUT /assignment1/key6/val6 HTTP/1.1
+
+
+
+Time taken :  0.000715017318726 seconds 
+Server Response: 
+HTTP/1.1 204 No Content 
+Client Request: 
+GET /assignment1?request=key1 HTTP/1.1
+
+
+
+Time taken :  0.000682830810547 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val1
+Client Request: 
+GET /assignment1?request=key2 HTTP/1.1
+
+
+
+Time taken :  0.000651121139526 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val2
+Client Request: 
+GET /assignment1?request=key3 HTTP/1.1
+
+
+
+Time taken :  0.000693082809448 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val3
+Client Request: 
+GET /assignment1?request=key4 HTTP/1.1
+
+
+
+Time taken :  0.000642061233521 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val4
+Client Request: 
+GET /assignment1?request=key5 HTTP/1.1
+
+
+
+Time taken :  0.000655174255371 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val5
+Client Request: 
+GET /assignment1?request=key6 HTTP/1.1
+
+
+
+Time taken :  0.000627994537354 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val6
+Client Request: 
+GET /assignment1?request=key1 HTTP/1.1
+
+
+
+Time taken :  0.00067400932312 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val1
+Client Request: 
+GET /assignment1?request=key2 HTTP/1.1
+
+
+
+Time taken :  0.000662088394165 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val2
+Client Request: 
+GET /assignment1?request=key3 HTTP/1.1
+
+
+
+Time taken :  0.000720024108887 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val3
+Client Request: 
+GET /assignment1?request=key4 HTTP/1.1
+
+
+
+Time taken :  0.000669002532959 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val4
+Client Request: 
+GET /assignment1?request=key5 HTTP/1.1
+
+
+
+Time taken :  0.000715017318726 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val5
+Client Request: 
+GET /assignment1?request=key6 HTTP/1.1
+
+
+
+Time taken :  0.000726938247681 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val6
+Client Request: 
+GET /assignment1?request=key1 HTTP/1.1
+
+
+
+Time taken :  0.000684022903442 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val1
+Client Request: 
+GET /assignment1?request=key2 HTTP/1.1
+
+
+
+Time taken :  0.000648021697998 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val2
+Client Request: 
+GET /assignment1?request=key3 HTTP/1.1
+
+
+
+Time taken :  0.000729084014893 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val3
+Client Request: 
+GET /assignment1?request=key4 HTTP/1.1
+
+
+
+Time taken :  0.000694990158081 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val4
+Client Request: 
+GET /assignment1?request=key5 HTTP/1.1
+
+
+
+Time taken :  0.000767946243286 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val5
+Client Request: 
+GET /assignment1?request=key6 HTTP/1.1
+
+
+
+Time taken :  0.000717878341675 seconds 
+Server Response: 
+HTTP/1.1 200 OK 
+val6

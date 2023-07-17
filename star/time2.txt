@@ -1,0 +1,198 @@
+Client Request: 
+PUT /assignment1/key1/val1 HTTP/1.1
+
+
+Time taken :  0.00386095046997 seconds 
+Response: 
+HTTP/1.1 201 Created 
+Client Request: 
+PUT /assignment1/key2/val2 HTTP/1.1
+
+
+Time taken :  0.00205588340759 seconds 
+Response: 
+HTTP/1.1 201 Created 
+Client Request: 
+PUT /assignment1/key3/val3 HTTP/1.1
+
+
+Time taken :  0.001953125 seconds 
+Response: 
+HTTP/1.1 201 Created 
+Client Request: 
+PUT /assignment1/key4/val4 HTTP/1.1
+
+
+Time taken :  0.00152206420898 seconds 
+Response: 
+HTTP/1.1 201 Created 
+Client Request: 
+PUT /assignment1/key5/val5 HTTP/1.1
+
+
+Time taken :  0.00181579589844 seconds 
+Response: 
+HTTP/1.1 201 Created 
+Client Request: 
+PUT /assignment1/key6/val6 HTTP/1.1
+
+
+Time taken :  0.00150799751282 seconds 
+Response: 
+HTTP/1.1 201 Created 
+Client Request: 
+GET /assignment1?request=key1 HTTP/1.1
+
+
+Time taken :  0.00160813331604 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val1
+Client Request: 
+GET /assignment1?request=key2 HTTP/1.1
+
+
+Time taken :  0.00169801712036 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val2
+Client Request: 
+GET /assignment1?request=key3 HTTP/1.1
+
+
+Time taken :  0.00133800506592 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val3
+Client Request: 
+GET /assignment1?request=key4 HTTP/1.1
+
+
+Time taken :  0.0013439655304 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val4
+Client Request: 
+GET /assignment1?request=key5 HTTP/1.1
+
+
+Time taken :  0.00128388404846 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val5
+Client Request: 
+GET /assignment1?request=key6 HTTP/1.1
+
+
+Time taken :  0.00116920471191 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val6
+Client Request: 
+GET /assignment1?request=key1 HTTP/1.1
+
+
+Time taken :  0.000581979751587 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val1
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key2 HTTP/1.1
+
+
+Time taken :  0.000570058822632 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val2
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key3 HTTP/1.1
+
+
+Time taken :  0.000623226165771 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val3
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key4 HTTP/1.1
+
+
+Time taken :  0.000515222549438 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val4
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key5 HTTP/1.1
+
+
+Time taken :  0.000515937805176 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val5
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key6 HTTP/1.1
+
+
+Time taken :  0.000504970550537 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val6
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key1 HTTP/1.1
+
+
+Time taken :  0.000499963760376 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val1
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key2 HTTP/1.1
+
+
+Time taken :  0.000497817993164 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val2
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key3 HTTP/1.1
+
+
+Time taken :  0.000473022460938 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val3
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key4 HTTP/1.1
+
+
+Time taken :  0.000476121902466 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val4
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key5 HTTP/1.1
+
+
+Time taken :  0.000462055206299 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val5
+(Cached Response)
+Client Request: 
+GET /assignment1?request=key6 HTTP/1.1
+
+
+Time taken :  0.000491857528687 seconds 
+Response: 
+HTTP/1.1 200 OK 
+val6
+(Cached Response)
